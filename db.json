@@ -1,0 +1,135 @@
+{
+    "Products": [
+      {
+        "id": 1,
+        "category": "Tshirt",
+        "name": "Yalex",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/babe.jpg",
+        "neckDesign": "roundneck",
+        "color": "white",
+        "size": "small",
+        "productdesc": "PN#01/Yalex/rn/white/S",
+        "price": 10.5,
+        "inventory": 11
+      },
+      {
+        "id": 2,
+        "category": "Tshirt",
+        "name": "Yalex",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/porkchop.jpg",
+        "neckDesign": "roundneck",
+        "color": "black",
+        "size": "medium",
+        "productdesc": "PN#02/Yalex/rn/white/M",
+        "price": "11.75",
+        "inventory": 38
+      },
+      {
+        "id": 3,
+        "category": "Tshirt",
+        "name": "Yalex",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/cherub.jpg",
+        "neckDesign": "roundneck",
+        "color": "white",
+        "size": "large",
+        "productdesc": "PN#03/Yalex/rn/white/L",
+        "price": 12.5,
+        "inventory": 248
+      },
+      {
+        "id": 4,
+        "category": "Polo",
+        "name": "Blucorner",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/piggy_smalls.jpg",
+        "neckDesign": "Vneck",
+        "color": "black",
+        "size": "small",
+        "productdesc": "PN#04/Blucorner/rn/black/S",
+        "price": 12.75,
+        "inventory": 72
+      },
+      {
+        "id": 5,
+        "category": "Polo",
+        "name": "Blucorner",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/trouble.jpg",
+        "neckDesign": "Vneck",
+        "color": "black",
+        "size": "medium",
+        "productdesc": "PN#05/Blucorner/rn/black/M",
+        "price": 13.5,
+        "inventory": 5
+      },
+      {
+        "id": 6,
+        "category": "Polo",
+        "name": "Blucorner",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/piglet.jpg",
+        "neckDesign": "Vneck",
+        "color": "black",
+        "size": "large",
+        "productdesc": "PN#06/Blucorner/rn/black/L",
+        "price": 14.5,
+        "inventory": "3000"
+      },
+      {
+        "id": 7,
+        "category": "Polo",
+        "name": "Lifeline",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/truffle_shuffle.jpg",
+        "neckDesign": "withCollar",
+        "color": "white",
+        "size": "small",
+        "productdesc": "PN#07/Lifeline/collar/white/S",
+        "price": 18.5,
+        "inventory": 71
+      },
+      {
+        "id": 8,
+        "category": "formal",
+        "name": "Lifeline",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/galaxy_note.jpg",
+        "neckDesign": "withCollar",
+        "color": "white",
+        "size": "medium",
+        "productdesc": "PN#08/Lifeline/collar/white/M",
+        "price": 19.5,
+        "inventory": 22
+      },
+      {
+        "id": 9,
+        "category": "formal",
+        "name": "Lifeline",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/leggo_my_eggo.jpg",
+        "neckDesign": "withCollar",
+        "color": "white",
+        "size": "large",
+        "productdesc": "PN#09/Lifeline/collar/white/L",
+        "price": 20,
+        "inventory": 26
+      },
+      {
+        "id": 10,
+        "category": "formal",
+        "name": "Lifeline",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/piglet.jpg",
+        "neckDesign": "withCollar",
+        "color": "white",
+        "size": "extralarge",
+        "productdesc": "PN#10/Lifeline/collar/white/XL",
+        "price": 21,
+        "inventory": 36
+      },
+      {
+        "name": "banana",
+        "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/piglet.jpg",
+        "neckDesign": "round",
+        "color": "pink",
+        "size": "m",
+        "price": "234",
+        "productdesc": "smooth",
+        "inventory": "24",
+        "id": 11
+      }
+    ]
+  }
